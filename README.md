@@ -43,8 +43,7 @@ Currently, I’m focused on becoming a Mid-Level Software Engineer. I’m intere
 
 ## 📫 How to reach me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alison-rocha22/)  
-- 💻 [GitHub](https://github.com/alisondarocha)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alison-rocha22/)
 - ✉️ Email: alison.sdr22@gmail.com  
 
 ---
