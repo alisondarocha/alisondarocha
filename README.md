@@ -4,8 +4,6 @@
 
 I’m a software developer with over 2 years of solid experience in C# and .NET, specializing in building robust APIs and custom ERP systems. I’m passionate about solving complex problems and implementing scalable architectures, always prioritizing quality, performance, and best practices like SOLID and Clean Code.
 
-I have proven experience in legacy application refactoring, automated testing (unit and integration), data modeling, and working in agile teams using Scrum. I’m constantly seeking technical growth and excellence in development.
-
 ---
 
 ## 💻 Tech Stack
