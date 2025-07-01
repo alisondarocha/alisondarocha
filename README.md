@@ -21,26 +21,6 @@ I’m a software developer with over 2 years of solid experience in C# and .NET,
 
 ---
 
-## 🚀 What I’m looking for
-
-Currently, I’m focused on becoming a Mid-Level Software Engineer. I’m interested in working with:
-
-- RESTful API and microservices development
-- Systems integration and messaging
-- ERP, e-commerce, and artificial intelligence solutions
-- Scalable and high-performance architectures
-
----
-
-## 📚 Constantly improving
-
-- 🔍 Deepening my knowledge in software architecture
-- 🛠️ Studying advanced topics in messaging and microservices
-- 🧪 Expanding my skills in automated testing and CI/CD pipelines
-- 🚀 Exploring freelance opportunities and new challenges in the tech market
-
----
-
 ## 📫 How to reach me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alison-rocha22/)
